@@ -1,5 +1,0 @@
-﻿<wpf:ResourceDictionary xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                        xmlns:s="clr-namespace:System;assembly=mscorlib"
-                        xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-                        xml:space="preserve">
-	<s:String x:Key="/Default/DesignerComponentManagerNuGet/DesignerToolboxNuGetState/@EntryValue">D:\C# Projects\ManagerDAS\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.117.0\lib\net46\System.Data.SQLite.dll|</s:String></wpf:ResourceDictionary>
